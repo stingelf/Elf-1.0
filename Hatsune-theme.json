@@ -581,7 +581,7 @@
         "CHAT_MENTIONS_FOREGROUND_DARK": "#00FFFF"
     },
     "background": {
-        "blur": 0,
+        "blur": 0.35,
         "url": "https://i.imgur.com/hu9mjXH.gif",
         "alpha": 0.85
     },
