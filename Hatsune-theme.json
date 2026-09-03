@@ -1,7 +1,7 @@
 {
     "name": "Hatsune Miku Theme",
     "description": "Custom Hatsune Miku theme with her signature colors.",
-    "version": "1.0.0",
+    "version": "1.3.1",
     "authors": [
         {
             "name": "stingelf",
@@ -18,12 +18,12 @@
             "#299C93"
         ],
         "BACKGROUND_MENTIONED": [
-            "#39C5BB33",
-            "#39C5BB33"
+            "#39C5BB66",
+            "#39C5BB66"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#39C5BB4D",
-            "#39C5BB4D"
+            "#39C5BB80",
+            "#39C5BB80"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#ffffff0A",
@@ -166,12 +166,12 @@
             "#FF007F"
         ],
         "MENTION_BACKGROUND": [
-            "#39C5BB33",
-            "#39C5BB33"
+            "#39C5BB66",
+            "#39C5BB66"
         ],
         "MENTION_FOREGROUND": [
-            "#39C5BB",
-            "#39C5BB"
+            "#00E5E5",
+            "#00E5E5"
         ],
         "TEXT_DANGER": [
             "#FF007F",
@@ -182,8 +182,8 @@
             "#299C93"
         ],
         "TEXT_NORMAL": [
-            "#004C4C",
-            "#004C4C"
+            "#39C5BB",
+            "#39C5BB"
         ],
         "TEXT_MUTED": [
             "#FFE600",
@@ -493,8 +493,8 @@
             "transparent"
         ],
         "CHAT_MENTIONS_BACKGROUND": [
-            "#39C5BB33",
-            "#39C5BB33"
+            "#39C5BB66",
+            "#39C5BB66"
         ]
     },
     "rawColors": {
@@ -577,8 +577,8 @@
         "WHITE_630": "#39C5BB",
         "ROLE_DEFAULT": "#222630",
         "BLACK_460": "#222630",
-        "CHAT_MENTIONS_BACKGROUND_DARK": "#39C5BB33",
-        "CHAT_MENTIONS_FOREGROUND_DARK": "#39C5BB"
+        "CHAT_MENTIONS_BACKGROUND_DARK": "#39C5BB66",
+        "CHAT_MENTIONS_FOREGROUND_DARK": "#00E5E5"
     },
     "background": {
         "blur": 0,
