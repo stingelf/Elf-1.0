@@ -1,6 +1,6 @@
 {
     "name": "Gawr Gura Theme",
-    "description": "Custom Gawr Gura theme featuring deep ocean blues, vibrant coral orange accents, and high-contrast pale ice-blue text.",
+    "description": "Custom Gawr Gura theme.",
     "version": "1.0.0",
     "authors": [
         {
@@ -217,7 +217,7 @@
         "CHAT_MENTIONS_FOREGROUND_DARK": "#DDF2F8"
     },
     "background": {
-        "blur": 1,
+        "blur": 0,
         "url": "https://i.imgur.com/2iplwFv.jpg",
         "alpha": 0.85
     },
