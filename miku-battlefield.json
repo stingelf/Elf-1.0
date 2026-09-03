@@ -1,7 +1,7 @@
 {
     "name": "Miku Battlefield Theme",
     "description": "Custom Hatsune Miku theme.",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "authors": [
         {
             "name": "stingelf",
@@ -229,7 +229,7 @@
         "icons": {
             "ic_radio_circle_checked": "#C1272D",
             "ic_radio_circle_checked__overlay": "#0E0C0A",
-            "ic_radio_square_24px": "#98D973",
+            "ic_radio_square_24px": "#C1272D",
             "ic_radio_square_checked_24px": "#C1272D",
             "ic_radio_square_checked_24px__overlay": "#0E0C0A",
             "ic_rich_presence_dark_12px": "#D9B36C",
@@ -254,15 +254,16 @@
             "member_list_badge_16px": "#C1272D",
             "ic_nitro_rep_24px": "#C1272D",
             "ShopIcon": "#C1272D",
-            "PencilIcon": "#98D973",
-            "SettingsIcon": "#D9B36C",
-            "MagnifyingGlassIcon": "#98D973",
-            "search": "#98D973",
+            "PencilIcon": "#C1272D",
+            "SettingsIcon": "#C1272D",
+            "MagnifyingGlassIcon": "#C1272D",
+            "search": "#C1272D",
             "MoreHorizontalIcon": "#C1272D",
-            "UserCheckIcon": "#98D973",
+            "UserCheckIcon": "#C1272D",
             "NitroWheelIcon": "#C1272D",
-            "down_arrow": "#98D973",
-            "QuestsIcon": "#D9B36C"
+            "down_arrow": "#C1272D",
+            "QuestsIcon": "#D9B36C",
+            "BellIcon": "#C1272D"
         }
     },
     "spec": 2
