@@ -1,7 +1,7 @@
 {
     "name": "Miku Theme",
     "description": "Custom Hatsune Miku theme.",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "authors": [
         {
             "name": "stingelf",
@@ -217,7 +217,7 @@
         "CHAT_MENTIONS_FOREGROUND_DARK": "#E0F7FA"
     },
     "background": {
-        "blur": 1,
+        "blur": 0,
         "url": "https://i.imgur.com/XKrszBu.jpg",
         "alpha": 0.25
     },
