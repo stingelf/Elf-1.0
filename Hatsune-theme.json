@@ -18,12 +18,12 @@
             "#299C93"
         ],
         "BACKGROUND_MENTIONED": [
-            "#FF007F22",
-            "#FF007F22"
+            "#39C5BB33",
+            "#39C5BB33"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#FF007F40",
-            "#FF007F40"
+            "#39C5BB4D",
+            "#39C5BB4D"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#ffffff0A",
@@ -46,32 +46,32 @@
             "#CBE3E0"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#121419D9",
-            "#F0F2F5D9"
+            "transparent",
+            "transparent"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#1A1D24E6",
-            "#E1E4EAE6"
+            "transparent",
+            "transparent"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#222630",
             "#DFF0EE"
         ],
         "BACKGROUND_PRIMARY": [
-            "#121419D9",
-            "#F0F2F5D9"
+            "transparent",
+            "transparent"
         ],
         "BACKGROUND_SECONDARY": [
-            "#1A1D24E6",
-            "#E1E4EAE6"
+            "transparent",
+            "transparent"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#0D0E12",
-            "#D6ECE9"
+            "transparent",
+            "transparent"
         ],
         "BACKGROUND_TERTIARY": [
-            "#0D0E12",
-            "#E3F0EF"
+            "transparent",
+            "transparent"
         ],
         "BADGE_BRAND_BG": [
             "#FF007F",
@@ -114,8 +114,8 @@
             "#D6ECE9"
         ],
         "CHAT_BACKGROUND": [
-            "#121419D9",
-            "#F0F2F5D9"
+            "transparent",
+            "transparent"
         ],
         "EMBED_BACKGROUND": [
             "#1A1D24",
@@ -166,12 +166,12 @@
             "#FF007F"
         ],
         "MENTION_BACKGROUND": [
-            "#FF007F22",
-            "#FF007F22"
+            "#39C5BB33",
+            "#39C5BB33"
         ],
         "MENTION_FOREGROUND": [
-            "#FF007F",
-            "#FF007F"
+            "#39C5BB",
+            "#39C5BB"
         ],
         "TEXT_DANGER": [
             "#FF007F",
@@ -206,16 +206,16 @@
             "#299C93"
         ],
         "BG_BASE_PRIMARY": [
-            "#121419D9",
-            "#F0F2F5D9"
+            "transparent",
+            "transparent"
         ],
         "BG_BASE_SECONDARY": [
-            "#1A1D24E6",
-            "#E1E4EAE6"
+            "transparent",
+            "transparent"
         ],
         "BG_BASE_TERTIARY": [
-            "#0D0E12",
-            "#D6ECE9"
+            "transparent",
+            "transparent"
         ],
         "BG_MOD_FAINT": [
             "#222630",
@@ -250,8 +250,8 @@
             "#F0F2F5E6"
         ],
         "BACKGROUND_SURFACE_HIGH": [
-            "#121419D9",
-            "#F0F2F5D9"
+            "transparent",
+            "transparent"
         ],
         "TAB_BAR_BACKGROUND": [
             "#1A1D24E6",
@@ -354,8 +354,8 @@
             "#CBE3E0"
         ],
         "STANDALONE_CHANNEL_CONTENT_BACKGROUND": [
-            "#121419D9",
-            "#F0F2F5D9"
+            "transparent",
+            "transparent"
         ],
         "STANDALONE_CHANNEL_HEADER_BORDER": [
             "#121419",
@@ -493,8 +493,8 @@
             "transparent"
         ],
         "CHAT_MENTIONS_BACKGROUND": [
-            "#FF007F22",
-            "#FF007F22"
+            "#39C5BB33",
+            "#39C5BB33"
         ]
     },
     "rawColors": {
@@ -577,8 +577,8 @@
         "WHITE_630": "#39C5BB",
         "ROLE_DEFAULT": "#222630",
         "BLACK_460": "#222630",
-        "CHAT_MENTIONS_BACKGROUND_DARK": "#FF007F30",
-        "CHAT_MENTIONS_FOREGROUND_DARK": "#FF007F"
+        "CHAT_MENTIONS_BACKGROUND_DARK": "#39C5BB33",
+        "CHAT_MENTIONS_FOREGROUND_DARK": "#39C5BB"
     },
     "background": {
         "blur": 0,
