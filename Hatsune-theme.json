@@ -1,7 +1,7 @@
 {
     "name": "Hatsune Miku Theme",
-    "description": "Custom Hatsune Miku theme.",
-    "version": "0.4 Alpha",
+    "description": "Custom Hatsune Miku theme with her signature colors.",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "stingelf",
@@ -126,12 +126,12 @@
             "#CBE3E0"
         ],
         "HEADER_PRIMARY": [
-            "#39C5BB",
-            "#008B8B"
+            "#003333",
+            "#003333"
         ],
         "HEADER_SECONDARY": [
-            "#FFE600",
-            "#B3A200"
+            "#004C4C",
+            "#004C4C"
         ],
         "INPUT_BACKGROUND": [
             "#0D0E12",
@@ -170,36 +170,36 @@
             "#39C5BB33"
         ],
         "MENTION_FOREGROUND": [
-            "#39C5BB",
-            "#39C5BB"
+            "#003333",
+            "#003333"
         ],
         "TEXT_DANGER": [
             "#FF007F",
             "#FF007F"
         ],
         "TEXT_LINK": [
-            "#39C5BB",
-            "#299C93"
+            "#003333",
+            "#003333"
         ],
         "TEXT_NORMAL": [
-            "#FF007F",
-            "#FF007F"
+            "#003333",
+            "#003333"
         ],
         "TEXT_MUTED": [
-            "#FFE600",
-            "#B3A200"
+            "#004C4C",
+            "#004C4C"
         ],
         "TEXT_PRIMARY": [
-            "#FF007F",
-            "#FF007F"
+            "#003333",
+            "#003333"
         ],
         "TEXT_WARNING": [
             "#FFE600",
             "#B3A200"
         ],
         "TEXT_POSITIVE": [
-            "#39C5BB",
-            "#248A82"
+            "#003333",
+            "#003333"
         ],
         "THREAD_CHANNEL_SPINE": [
             "#39C5BB",
@@ -334,12 +334,12 @@
             "#FF007F"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-            "#FFE600",
-            "#B3A200"
+            "#004C4C",
+            "#004C4C"
         ],
         "REDESIGN_CHANNEL_NAME_TEXT": [
-            "#39C5BB",
-            "#1A6E67"
+            "#003333",
+            "#003333"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
             "#222630",
@@ -378,8 +378,8 @@
             "#E1E4EA"
         ],
         "MOBILE_TEXT_HEADING_PRIMARY": [
-            "#39C5BB",
-            "#008B8B"
+            "#003333",
+            "#003333"
         ],
         "NAVIGATOR_HEADER_TINT": [
             "#39C5BB",
@@ -457,7 +457,7 @@
             "#142820"
         ],
         "STATUS_POSITIVE_TEXT": [
-            "#39C5BB"
+            "#003333"
         ],
         "STATUS_WARNING_BACKGROUND": [
             "#2A2010"
@@ -578,7 +578,7 @@
         "ROLE_DEFAULT": "#222630",
         "BLACK_460": "#222630",
         "CHAT_MENTIONS_BACKGROUND_DARK": "#39C5BB33",
-        "CHAT_MENTIONS_FOREGROUND_DARK": "#39C5BB"
+        "CHAT_MENTIONS_FOREGROUND_DARK": "#003333"
     },
     "background": {
         "blur": 0,
