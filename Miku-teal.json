@@ -1,7 +1,7 @@
 {
     "name": "Miku Hatsune",
     "description": "the instense voice of hatsune miku",
-    "version": "1.7.0",
+    "version": "1.7.2",
     "authors": [
         {
             "name": "stingelf",
@@ -217,7 +217,7 @@
         "CHAT_MENTIONS_FOREGROUND_DARK": "#FFFFFF"
     },
     "background": {
-        "blur": 0,
+        "blur": 1,
         "url": "https://i.imgur.com/XKrszBu.jpg",
         "alpha": 0.5
     },
