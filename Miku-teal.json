@@ -217,9 +217,9 @@
         "CHAT_MENTIONS_FOREGROUND_DARK": "#FFFFFF"
     },
     "background": {
-        "blur": 1,
-        "url": "https://i.imgur.com/XKrszBu.jpg",
-        "alpha": 0.25
+        "blur": 0,
+        "url": "https://i.imgur.com/hu9mjXH.gif",
+        "alpha": 0.80
     },
     "plus": {
         "version": "0",
