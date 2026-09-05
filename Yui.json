@@ -389,7 +389,7 @@
     "version": 0,
     "iconpack": "rosiecord-plumpy",
     "mentionLineColor": "#D9A05B",
-    "backgroundImageUrl": "76510.jpg",
+    "backgroundImageUrl": "https://raw.githubusercontent.com/stingelf/Elf-1.0/10b831648e40919d987b1ec5e582d7bc92582591/file_00000000ed9081faa4ef9554e0434945.png",
     "backgroundAlpha": 0.4,
     "blur": 0.75,
     "customOverlays": true,
@@ -433,7 +433,7 @@
     }
   },
   "background": {
-    "url": "76510.jpg",
+    "url": "https://raw.githubusercontent.com/stingelf/Elf-1.0/10b831648e40919d987b1ec5e582d7bc92582591/file_00000000ed9081faa4ef9554e0434945.png",
     "alpha": 0.55,
     "blur": 0
   }
